@@ -3,8 +3,7 @@
 
 ## 💻 `README.md` for **Task Manager CLI App**
 
-```markdown
-# 💻 Task Manager CLI App
+
 
 This is a simple **Command Line Task Manager (To-Do App)** built using **Python**.  
 It allows you to manage your daily tasks directly from the terminal.
